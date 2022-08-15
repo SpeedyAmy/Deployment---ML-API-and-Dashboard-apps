@@ -1,5 +1,4 @@
 # Deploy and API and Dashboard to analyse rental delays and estimate pricing of cars rentals on Getaround
-The goal of this project is to create algorithms that will determine where are the hot-zones that Uber drivers should be in to avoid making clients wait more than 5mn 
 
 ## Details for certification purpose
 * email : amina.nasri@gmail.com
@@ -74,3 +73,4 @@ docker run -it -v "$(pwd):/home/app" -e AWS_ACCESS_KEY_ID="YOUR_AWS_ACCESS_KEY" 
 ## Authors
 
 **Amina Nasri** - [SpeedyAmy](https://github.com/SpeedyAmy)
+I got help from my co students during the fullstack
